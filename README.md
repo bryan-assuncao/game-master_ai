@@ -2,9 +2,6 @@
 
 **GameMaster AI** é um assistente virtual inteligente, construído com Python, Langchain e a API Groq (utilizando o modelo Llama 3), projetado para ajudar usuários a descobrir novos videogames. Ele se engaja em uma conversa proativa e amigável para entender suas preferências e recomendar os títulos mais adequados.
 
-![Exemplo de Interação](link_para_uma_imagem_ou_gif_da_interacao_no_terminal_se_voce_tiver)
-*(Opcional: Se você puder capturar uma imagem ou GIF da interação no terminal, adicione aqui)*
-
 ## ✨ Funcionalidades Principais
 
 * **Recomendações Personalizadas:** Receba sugestões de jogos baseadas em seus gostos.
